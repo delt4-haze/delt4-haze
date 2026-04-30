@@ -1,8 +1,4 @@
-# 👋 ¡Hola! Soy
-
-```text
-> DELT4_HAZE_ [SYSTEM_ACTIVE]
-
+# 👋 ¡Hola! Soy Delt4_Haze
 
 ### 🤖 Entusiasta de la Inteligencia Artificial & Automatización en Android
 
