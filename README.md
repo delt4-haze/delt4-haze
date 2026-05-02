@@ -6,7 +6,7 @@
 
 - 🚀 **Proyectos actuales:** Trabajando en `ai-control` y mejorando `ai-bot-core`.
 - 🎯 **Mi objetivo:** Crear herramientas que faciliten la vida mediante bots inteligentes.
-- 🛠️ **Habilidades:**. Python, Java y Seguridad Ética.
+- 🛠️ **Habilidades:**.Python, Java y Seguridad Ética.
 - ⚡ **Dato curioso:** Siempre buscando cómo optimizar procesos complejos.
 
 ---
