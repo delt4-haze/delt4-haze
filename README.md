@@ -12,7 +12,7 @@
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Estadísticas de Delt4_Haze](https://github-readme-stats.vercel.app/api?username=delt4-haze&show_icons=true&theme=tokyonight&count_private=true)
+![Estadísticas de Delt4_Haze](https://github-readme-stats-one-bice.vercel.app/api?username=delt4-haze&show_icons=true&theme=tokyonight)
 
 ### 💻 Lenguajes más usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=delt4-haze&layout=compact&theme=tokyonight&hide_langs=html,css)
+![Lenguajes más usados](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=delt4-haze&layout=compact&theme=tokyonight)
