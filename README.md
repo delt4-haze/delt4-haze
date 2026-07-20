@@ -21,4 +21,7 @@
 📫 Feel free to check out my repositories and leave a star if you like my work!
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
-![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
+![footer_wave]
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+</a>
+</div>
