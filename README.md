@@ -12,7 +12,7 @@ Passionate about technology with a keen focus on AI security. I am constantly le
 
 ​Red Teaming: Actively exploring adversarial testing techniques to improve the safety and reliability of LLMs🧪🚩
 
-​Automation: Refining security workflows to create highly efficient, self-defending, and resilient automation pipelines
+​Automation: Refining security workflows to create highly efficient, self-defending, and resilient automation pipelines⚙️⚡
 
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
