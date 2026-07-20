@@ -9,6 +9,10 @@
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
 
+<div align=center>
+    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
+</div>
+
 ### 🛠️ Main Projects
 - **[ai-control](https://github.com):** Automation, AI, and various experiments for Android.
 - **[ai-bot-core](https://github.com):** Core and logic development for intelligent bots in Python.
