@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🤖 ¡Hola! Soy Delt4_Haze
 
-<!--
-**delt4-haze/delt4-haze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil. Me apasiona el desarrollo de software enfocado en la automatización y la inteligencia artificial.
 
-Here are some ideas to get you started:
+### 🛠️ Mis Proyectos Principales
+- **[ai-control](https://github.com):** Automatización, IA y experimentos variados para Android.
+- **[ai-bot-core](https://github.com):** Desarrollo de la base y lógica para bots inteligentes en Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías y Herramientas
+- 🐍 Python / ☕ Java / ⚙️ Automatización de sistemas
+- 🤖 Integración de APIs de Inteligencia Artificial
+- 📱 Desarrollo en entornos Android
+
+📫 ¡No dudes en revisar mis repositorios y dejar una estrella si te gusta mi trabajo!
