@@ -5,6 +5,12 @@
 <h1 align="center">Hi , I'm Delt4_Haze <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
+Passionate about technology with a keen focus on AI security. I am constantly learning and exploring red teaming methodologies applied to large language models (LLMs), striving to build more resilient and secure automated systems.
+​🔭 Current Focus & Research
+​AI Security: Investigating vulnerability assessment and robust deployment strategies for intelligent systems.
+​Red Teaming: Actively exploring adversarial testing techniques to improve the safety and reliability of LLMs.
+​Automation: Refining security workflows to create highly efficient, self-defending, and resilient automation pipelines
+
 | Snake Eating Contributions in the last year |
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
