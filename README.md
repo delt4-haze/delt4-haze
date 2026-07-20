@@ -9,13 +9,13 @@
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) |
 
-### 🛠️ Mis Proyectos Principales
-- **[ai-control](https://github.com):** Automatización, IA y experimentos variados para Android.
-- **[ai-bot-core](https://github.com):** Desarrollo de la base y lógica para bots inteligentes en Python.
+### 🛠️ Main Projects
+- **[ai-control](https://github.com):** Automation, AI, and various experiments for Android.
+- **[ai-bot-core](https://github.com):** Core and logic development for intelligent bots in Python.
 
-### 🚀 Tecnologías y Herramientas
-- 🐍 Python / ☕ Java / ⚙️ Automatización de sistemas
-- 🤖 Integración de APIs de Inteligencia Artificial
-- 📱 Desarrollo en entornos Android
+### 🚀 Technologies & Tools
+- 🐍 Python / ☕ Java / ⚙️ Systems Automation
+- 🤖 Artificial Intelligence API Integration
+- 📱 Android Development
 
-📫 ¡No dudes en revisar mis repositorios y dejar una estrella si te gusta mi trabajo!
+📫 Feel free to check out my repositories and leave a star if you like my work!
