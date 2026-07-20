@@ -25,10 +25,5 @@
 📫 Feel free to check out my repositories and leave a star if you like my work!
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
-
-<div align=center>
-    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
-</div>
-
 ![footer_wave]
 (https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
