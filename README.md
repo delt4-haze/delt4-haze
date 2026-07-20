@@ -39,6 +39,23 @@ Passionate about technology with a keen focus on AI security. I am constantly le
 
 📫 Feel free to check out my repositories and leave a star if you like my work!
 
+Learning Journey & Progress (Enfoque en proceso de aprendizaje)
+​Active Learner: 📖 Currently leveling up my skills in AI security, diving deep into how machine learning models process threats and how to secure them against adversarial attacks
+
+​Constant Evolution: 🌱 Day by day, expanding my technical horizon from standard software development into the complex and fascinating world of Artificial Intelligence safety
+
+​Exploration Phase: 🔭 Currently experimenting with LLM red teaming, vulnerability testing, and security frameworks to understand the fragile points of modern AI
+
+​Leveling Up: 📈 Dedicating time to research, break, and rebuild AI architectures to master the fundamentals of secure intelligent systems
+
+​🔬 Research & Experimentation (Experimentación y práctica)
+
+​Hands-on Security: 🛠️ Learning by doing—building custom automation scripts and testing AI integrations to discover how they behave under pressure
+
+​Breaking to Learn: 🧪 Exploring offensive security concepts (red teaming) to better understand how to defend AI-driven applications effectively
+
+​Curiosity-Driven: 💡 Constantly reading documentation, testing APIs, and learning how to mitigate risks in autonomous systems
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
