@@ -5,10 +5,6 @@
 <h1 align="center">Hi , I'm Delt4_Haze <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-<p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
-</p>
-
 Passionate about technology with a keen focus on AI security. I am constantly learning and exploring red teaming methodologies applied to large language models (LLMs), striving to build more resilient and secure automated systems
 
 ​🔭 Current Focus & Research
