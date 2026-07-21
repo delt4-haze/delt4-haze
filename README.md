@@ -39,6 +39,7 @@ Passionate about technology with a keen focus on AI security. I am constantly le
     <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb,postgresql,postman,redis,prisma&theme=dark" /><br>
 </div>
 
+
 📫 Feel free to check out my repositories and leave a star if you like my work!
 
 |It's not a bug, it's an undocumented feature|Building the future, one line of code at a time|
