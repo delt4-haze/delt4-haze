@@ -2,6 +2,8 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
+![MasterHead](<https://github.com/Delt4/Delt4/blob/main/github-header-image%20(1).png>)
+
 <h1 align="center">Hi , I'm Delt4_Haze <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
