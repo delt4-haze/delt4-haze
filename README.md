@@ -39,6 +39,10 @@ Passionate about technology with a keen focus on AI security. I am constantly le
 
 📫 Feel free to check out my repositories and leave a star if you like my work!
 
+|There is always something new to learn|Trying get some code done every day I can|
+|:-:|:-:|
+|![There is always something to learn](https://user-images.githubusercontent.com/32860080/166309379-4c11e944-fedd-4e13-b389-2b2eac785d5b.gif)|![Trying to get some code in every day](https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)|
+
 Learning Journey & Progress (Enfoque en proceso de aprendizaje)
 ​Active Learner: 📖 Currently leveling up my skills in AI security, diving deep into how machine learning models process threats and how to secure them against adversarial attacks
 
