@@ -56,9 +56,5 @@ Learning Journey & Progress (Enfoque en proceso de aprendizaje)
 
 ​Curiosity-Driven: 💡 Constantly reading documentation, testing APIs, and learning how to mitigate risks in autonomous systems
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
