@@ -5,16 +5,6 @@
 <h1 align="center">Hi , I'm Delt4_Haze <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
-![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
-![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
-![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
-![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
-![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
-
-  ![Drake](https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&height=30&lines=sic+parvis+magna)
-  <p align="center" height='140px' > <img src="https://komarev.com/ghpvc/?username=Delt4_Haze&label=visitors&color=31c442&style=plastic" alt="thesaravanakumar" /> </p>
-
 Passionate about technology with a keen focus on AI security. I am constantly learning and exploring red teaming methodologies applied to large language models (LLMs), striving to build more resilient and secure automated systems
 
 ​🔭 Current Focus & Research
