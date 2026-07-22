@@ -26,6 +26,8 @@ Passionate about technology with a keen focus on AI security. I am constantly le
 - **[ai-control](https://github.com):** Automation, AI, and various experiments for Android.
 - **[ai-bot-core](https://github.com):** Core and logic development for intelligent bots in Python.
 
+https://pin.it/1tYdbcv5i
+
 ### 🚀 Technologies & Tools
 - 🐍 Python / ☕ Java / ⚙️ Systems Automation
 - 🤖 Artificial Intelligence API Integration
