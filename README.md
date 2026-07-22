@@ -27,7 +27,7 @@ Passionate about technology with a keen focus on AI security. I am constantly le
 - **[ai-bot-core](https://github.com):** Core and logic development for intelligent bots in Python.
 
 <p align="center">
-  <img src="https://pin.it/2v5sv2FWb" alt="Dev Dreams" width="700">
+  <img src="https://pin.it/1tYdbcv5i" alt="Dev Dreams" width="700">
 </p>
 
 ### 🚀 Technologies & Tools
